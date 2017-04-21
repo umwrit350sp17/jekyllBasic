@@ -11,7 +11,7 @@ gems:
 #baseurl: "/projectname"
 url: ""
 enforce_ssl: ""
-baseurl: "/umwrit350sp17/portfolio"
+baseurl: "/umwrit350sp17/"
 
 # Title of website
 title: Project Name
